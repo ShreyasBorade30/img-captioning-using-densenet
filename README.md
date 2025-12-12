@@ -1,1 +1,1 @@
-###Image Captioning for Visual Navigation
+Image Captioning for Visual Navigation
